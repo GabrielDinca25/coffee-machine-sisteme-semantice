@@ -11,3 +11,16 @@ E:\CoffeeMachine\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachi
 E:\CoffeeMachine\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.dll
 E:\CoffeeMachine\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.pdb
 E:\CoffeeMachine\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.genruntimeconfig.cache
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.csprojAssemblyReference.cache
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.AssemblyInfoInputs.cache
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.AssemblyInfo.cs
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.csproj.CoreCompileInputs.cache
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.dll
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.pdb
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.exe
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.deps.json
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.runtimeconfig.json
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.runtimeconfig.dev.json
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.dll
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.pdb
+E:\repos\coffee-machine-sisteme-semantice\CoffeeMachine\CoffeeMachine\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.genruntimeconfig.cache

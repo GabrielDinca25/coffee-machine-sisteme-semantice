@@ -8,32 +8,9 @@ namespace CoffeeMachine
     {
         protected List<Transition> transitionList = new List<Transition>();
 
-        public String GetCurrentState()
-        {
-            if (transitionList.Count == 0)
-            {
-                Console.WriteLine("Transition List is empty");
-            }
-            foreach (Transition transition in transitionList)
-            {
-                List<Location> locationList = new List<Location>();
-                locationList = transition.GetArcsLocation();
-                if (locationList.Count == 0)
-                {
-                    Console.WriteLine("Location List is empty");
-                }
-                foreach (Location location in locationList)
-                {
-                    if (location.tokens == 1)
-                    {
-                        return location._tag;
-                    }
-                }
-            }
-            return "404";
-        }
+        protected string type;
 
-        public bool Execute(String tag)
+        public virtual bool Execute(String tag)
         {
             List<Transition> validTransitions = new List<Transition>();
 
@@ -55,9 +32,23 @@ namespace CoffeeMachine
                 transition.UpdateTransition();
             }
 
-            Console.WriteLine("Current State: " + GetCurrentState());
 
             return true;
+        }
+
+        public virtual void Run()
+        {
+            Console.WriteLine($"Starting execution of {type} Petri Network");
+        }
+
+        public bool IsReveresedTransition(string tag)
+        {
+            if (tag.StartsWith("-"))
+            {
+                return true;
+            }
+
+            return false;
         }
     }
 }

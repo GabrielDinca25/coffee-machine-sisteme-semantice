@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj": {}
+    "E:\\repos\\coffee-machine-sisteme-semantice\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj": {}
   },
   "projects": {
-    "E:\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj": {
+    "E:\\repos\\coffee-machine-sisteme-semantice\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
+        "projectUniqueName": "E:\\repos\\coffee-machine-sisteme-semantice\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
         "projectName": "CoffeeMachine",
-        "projectPath": "E:\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
+        "projectPath": "E:\\repos\\coffee-machine-sisteme-semantice\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
         "packagesPath": "C:\\Users\\WFH\\.nuget\\packages\\",
-        "outputPath": "E:\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\obj\\",
+        "outputPath": "E:\\repos\\coffee-machine-sisteme-semantice\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WFH\\AppData\\Roaming\\NuGet\\NuGet.Config",
